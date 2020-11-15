@@ -2,7 +2,7 @@ telethon
 asyncio
 pymongo
 urbandict
-urllib
+
 tqdm
 hentai
 
