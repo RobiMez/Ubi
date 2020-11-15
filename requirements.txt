@@ -1,0 +1,12 @@
+telethon
+github
+asyncio
+pymongo
+urbandict
+urllib
+tqdm
+hentai
+
+
+
+-r ./requirements-ubot.txt
