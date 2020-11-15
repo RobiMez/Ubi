@@ -1,1 +1,1 @@
-worker: python3 -m startubot
+worker: python3 -m startubot.py
