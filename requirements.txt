@@ -1,5 +1,4 @@
 telethon
-github
 asyncio
 pymongo
 urbandict
